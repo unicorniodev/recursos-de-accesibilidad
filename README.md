@@ -13,6 +13,7 @@ Un conjunto de recursos útiles y gratuitos para aprender accesibilidad (a11y) o
 1. [Learn accessibility - Full a11y tutorial (FreeCodeCamp + Scrimba)](https://youtu.be/e2nkq3h1P68?si=kcUaoN1hVXtVR7Cu)  
 2. [Accessibility fundamentals (Microsoft Learn)](https://learn.microsoft.com/en-us/training/paths/accessibility-fundamental/)  
 3. [W3Cx: Introduction to Web Accessibility (edX)](https://www.edx.org/learn/web-accessibility/the-world-wide-web-consortium-w3c-introduction-to-web-accessibility)  
+4. [Learn Accessibility (Google web.dev)](https://web.dev/learn/accessibility)  
 
 ## 📚️ Libros  
 
