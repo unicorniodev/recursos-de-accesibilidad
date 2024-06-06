@@ -6,6 +6,7 @@ Un conjunto de recursos útiles y gratuitos para aprender accesibilidad (a11y) o
 
 1. [Accessibility tutorials (W3C)](https://www.w3.org/WAI/tutorials/)  
 2. [WCAG standars (W3C)](https://www.w3.org/WAI/standards-guidelines/)  
+3. [Accessible Rich Internet Applications (WAI-ARIA) 1.3 (W3C)](https://w3c.github.io/aria/)  
 
 ## 🤓 Cursos 
 
@@ -20,6 +21,7 @@ Un conjunto de recursos útiles y gratuitos para aprender accesibilidad (a11y) o
 ## 📝 Artículos  
 
 1. [A complete guide to accessible Front-end components (Smashing Magazine)](https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/#accessible-current-page-navigation-states)  
+2. [ARIA attributes: The forgotten ones of accessibility (Mía Salazar)](https://dev.to/miasalazar/aria-attributes-the-forgotten-ones-of-accessibility-4e12)  
 
 ## 🎧️ Podcasts
 
